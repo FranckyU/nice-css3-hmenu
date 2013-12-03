@@ -6,7 +6,7 @@ In my quest of extracting UI fragments from inspiring web apps (and the possibil
 
 ## What it looks like ?
 
-Yup, here's the [link to the result on JSFiddle](http://jsfiddle.net/4V8ee/2/) 
+Here's the [link to the result on JSFiddle](http://jsfiddle.net/4V8ee/2/) 
 Or better, [here you can view it full screen](http://jsfiddle.net/4V8ee/2/embedded/result/)
 
 ## Usage

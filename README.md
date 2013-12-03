@@ -2,6 +2,8 @@
 #nice-css3-hmenu
 *A UI fragment that exploits CSS3 3D capabilities on a horizontal menu*
 
+In my quest of extracting UI fragments from inspiring web apps (and the possibility to reuse it later), here is the second item on the serie (please see [nice-boot-sidebar](https://github.com/FranckyU/nice-boot-sidebar) which began the serie)
+
 ## What it looks like ?
 
 Yup, here's the [link to the result on JSFiddle](http://jsfiddle.net/4V8ee/2/) 
